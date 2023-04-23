@@ -2,7 +2,7 @@ class Hello
 {
 Public static void mai(String args[])
 {
-System.out.println("Hello Maneesh author added updated branch");
+System.out.println("Hello Maneesh author added updated remote branch");
 }
 }
 
